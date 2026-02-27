@@ -2,7 +2,7 @@
 Batch rename image files in a folder with flexible templates (digits + x counters), interactive messy-name filtering, safe two-phase renaming, and undo support — works on Windows/Linux/macOS.
 
 ---
-````markdown
+
 # Image Batch Renamer (Template + Messy Detection + Undo)
 
 A small, cross-platform Python CLI tool to batch rename image files in a folder **safely**.
